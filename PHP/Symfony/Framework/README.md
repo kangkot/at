@@ -1,0 +1,1 @@
+- Current stable is [2.5](https://github.com/symfony/symfony-standard/tree/2.5)

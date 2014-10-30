@@ -1,0 +1,3 @@
+- http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
+- http://nbviewer.ipython.org/gist/twiecki/3962843
+- http://zipline.readthedocs.org/en/latest/
