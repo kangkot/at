@@ -16,8 +16,8 @@ General Responsibility Assignment Software Patterns
 
 ### SOLID 
 
-1. Single responsibility
-2. Open-closed
+1. [Single responsibility](http://en.wikipedia.org/wiki/Single_responsibility_principle)
+2. [Open-closed](http://en.wikipedia.org/wiki/Open/closed_principle)
 3. Liskov substitution
 4. Interface segregation and Dependency inversion
 
