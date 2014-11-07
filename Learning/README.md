@@ -36,3 +36,4 @@ Keep it simple.
 ## Patterns
 
 1. [Chain-of-responsibility](http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
+2. [Template method pattern](http://en.wikipedia.org/wiki/Template_method_pattern)
