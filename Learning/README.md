@@ -32,3 +32,7 @@ Don't repeat yourself.
 ### KISS
 
 Keep it simple.
+
+## Patterns
+
+1. [Chain-of-responsibility](http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
