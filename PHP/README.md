@@ -31,3 +31,4 @@
 3. [boris](https://github.com/d11wtq/boris) — A tiny REPL for PHP
 4. [php-formatter](https://github.com/mmoreram/php-formatter) — PHP Formatter is a PHP developer friendly set of tools
 5. [PHP-CS-Fixer](https://github.com/fabpot/PHP-CS-Fixer) — Analyzes some PHP source code and tries to fix coding standards issues (PSR-1 and PSR-2 compatible).
+6. [PHP Secure Configuration Checker](https://github.com/sektioneins/pcc)
