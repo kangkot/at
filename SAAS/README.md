@@ -7,6 +7,7 @@
 ## Productivity
 
 1. [Asana.com](https://app.asana.com/) — Manage tasks
+  1. [instagantt](http://instagantt.com/)
 1. [Hackpad](https://hackpad.com) — Simple notepad
 1. [Hipchat](https://hipchat.com/)
 1. [Flowdock](https://www.flowdock.com/)
