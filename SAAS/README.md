@@ -15,6 +15,7 @@
 3. [Freshbooks](http://www.freshbooks.com/) — Cloud accounting
 4. [Harvest](https://www.getharvest.com/) — Track time
 5. [Bitly](https://bitly.com)
+6. [Prose.io](http://prose.io/) — Editor for static site.
 
 ## Automation
 
