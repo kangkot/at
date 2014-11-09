@@ -8,6 +8,10 @@
 3. [Tiny To Computer Science](http://tinytocs.org)
 4. [InfoQ](http://www.infoq.com) — Software Development News
 
+## Books
+
+1. [APIs: A Strategy Guide](http://shop.oreilly.com/product/0636920021223.do)
+
 ## Principles
 
 ### GRASP
