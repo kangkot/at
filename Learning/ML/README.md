@@ -9,6 +9,10 @@
 1. [Delivery a Big Data ready app](http://slides.com/gchomatas/delivering-a-big-data-ready-minimum-viable-product)
 2. [Try R](https://www.codeschool.com/courses/try-r)
 
+## Books
+
+1. [Thoughtful Machine Learning, A Test-Driven Approach](http://shop.oreilly.com/product/0636920032298.do)
+
 ## Deep Learning
 
 1. [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
