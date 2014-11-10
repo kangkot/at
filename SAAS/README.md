@@ -14,7 +14,7 @@
 2. [HelpScout](http://www.helpscout.net/) — Help Desk software
 3. [Freshbooks](http://www.freshbooks.com/) — Cloud accounting
 4. [Harvest](https://www.getharvest.com/) — Track time
-5. [Bitly](https://bitly.com)
+5. [Bitly](https://bitly.com) — The best short URL service
 6. [Prose.io](http://prose.io/) — Editor for static site.
 
 ## Automation
