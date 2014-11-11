@@ -8,6 +8,7 @@
 1. http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 1. [Delivery a Big Data ready app](http://slides.com/gchomatas/delivering-a-big-data-ready-minimum-viable-product)
 2. [Try R](https://www.codeschool.com/courses/try-r)
+3. [Data Scientist infographic](http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg)
 
 ## Books
 
