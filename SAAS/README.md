@@ -33,6 +33,7 @@
 1. [Mailinator](http://mailinator.com/)
 2. [NBViewer](http://nbviewer.ipython.org/) — A simple way to share IPython Notebooks.
 3. [OpenModel](http://www.openmodel.io) — Web to create models.
+4. [shields.io](http://shields.io/) — Shield icon generator
 
 ## For open source products
 
