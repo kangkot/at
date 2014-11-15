@@ -3,3 +3,9 @@
 1. [Klout](https://klout.com/)
 1. [Pocket](https://getpocket.com/)
 1. [RiteTag](https://ritetag.com/)
+
+## Facebook
+
+1. [Notes](https://www.facebook.com/notes/)
+1. [Saved](https://www.facebook.com/saved)
+1. [Places](https://www.facebook.com/places)
