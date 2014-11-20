@@ -1,1 +1,2 @@
 - [Chủ đề trường mầm non tháng 8-9](http://nhabeyeu.edu.vn/public/chitiettintuc.aspx?idnew=112C0JIS0B&idcateNew=12C0J)
+- [Những bài thơ hay cho các bé mẫu giáo](http://www.webtretho.com/forum/f54/nhung-bai-tho-hay-cho-cac-be-mau-giao-124625/)
