@@ -38,6 +38,7 @@
 ## For open source products
 
 1. [Github Porter](https://porter.github.com/)
+2. [git.io](http://git.io/) — Short URL service for github.
 1. [Transifex](https://www.transifex.com) — Product Translation
 2. [Travis](https://travis-ci.org) — Testing platform as service
 3. [SourceGraph](https://sourcegraph.com/)
