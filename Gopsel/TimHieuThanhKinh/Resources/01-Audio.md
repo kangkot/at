@@ -1,0 +1,31 @@
+## I. Các Bài Giảng Thánh Kinh, Thần Học; Các Bài Làm Chứng, Chia Sẻ:
+
+Để tiện cho việc lưu trữ các bài giảng MP3, cháu liệt kê danh sách các 
+bài giảng, bài làm chứng, chia sẻ của chú Tim và Hội Thánh đã được phân
+loại thống nhất như sau:
+
+* (101) [Tội Lỗi, Đức Tin, Sự Cầu Nguyện](https://soundcloud.com/huynh-christian-timothy/sets/101_toiloiductinsucaunguyen)
+* (102) [Sự Cứu Rỗi và Vương Quốc Trời](https://soundcloud.com/huynh-christian-timothy/sets/102_sucuuroivuongquoctroi)
+* (103) [Giao Ước, Điều Răn, và Luật Pháp](https://soundcloud.com/huynh-christian-timothy/sets/103_giaouocdieuranluatphap)
+* (104) [Chương Trình của Đức Chúa Trời](https://soundcloud.com/huynh-christian-timothy/sets/104_chuongtrinhcuaducchuatroi)
+* (105) [Chúa và Lời Chúa và Tận Thế](https://soundcloud.com/huynh-christian-timothy/sets/105_loichuatanthe)
+* (106) [Nếp Sống Mới Trong Chúa](https://soundcloud.com/huynh-christian-timothy/sets/106_nepsongmoitrongchua)
+* (107) [Chú Giải Ma-thi-ơ](https://soundcloud.com/huynh-christian-timothy/sets/107_chugiaimathio)
+* (108) [Chú Giải Giăng](https://soundcloud.com/huynh-christian-timothy/sets/108_chugiaigiang)
+* (109) [Chú Giải Khải Huyền](https://soundcloud.com/huynh-christian-timothy/sets/109_chugiaikhaihuyen)
+* (110) [Biện Giáo](https://soundcloud.com/huynh-christian-timothy/sets/110_biengiao)
+* (111) [Hỏi Đáp](https://soundcloud.com/huynh-christian-timothy/sets/111_hoivadap)
+* (112) [Các Bài Giải Kinh](https://soundcloud.com/huynh-christian-timothy/sets/112_giaikinh)
+* (113) [Phụ Nữ và Gia Đình](https://soundcloud.com/huynh-christian-timothy/sets/113_phunugiadinh)
+* (114) [Các Bài Giảng Khác](https://soundcloud.com/huynh-christian-timothy/sets/114_cacbaigiangkhac)
+* (115) [Kỳ Tận Thế](https://soundcloud.com/huynh-christian-timothy/sets/115_kytanthe)
+* (116) [Chú Giải Roma](https://soundcloud.com/huynh-christian-timothy/sets/116_chugiairoma)
+* (117) [Loài Người](https://soundcloud.com/huynh-christian-timothy/sets/117_loainguoi)
+* (118) [Hội Thánh](https://soundcloud.com/huynh-christian-timothy/sets/118_hoithanh)
+* (119) [Thiên Chúa](https://soundcloud.com/huynh-christian-timothy/sets/119_thienchua)
+* (120) [Lời Chứng](https://soundcloud.com/huynh-christian-timothy/sets/120_loichung)
+* (121) [Chia Sẻ](https://soundcloud.com/huynh-christian-timothy/sets/121_chiase)
+* (122) [Thần Học](https://soundcloud.com/huynh-christian-timothy/sets/122_thanhoc)
+* (200) [Chân Giả Luận Hà Nội](https://soundcloud.com/huynh-christian-timothy/sets/200_changialuanhanoi)
+* (201) [Chân Giả Luận Saigon](https://soundcloud.com/huynh-christian-timothy/sets/201_changialuansaigon)
+* (202) [Thi Thiên Ngâm Vịnh](https://soundcloud.com/huynh-christian-timothy/sets/202_thithienngamvinh)
