@@ -48,7 +48,7 @@ Bước 1: Trên máy ví tính mọi người cần tạo sẳn một thư mụ
 BaiGiang (Hình 01) -> bấm vào trong thư mục BaiGiang, tiếp tục tạo và đặt tên 
 các thư mục theo đúng tên chủ đề (Hình 02)
 
-
+![](https://lh6.googleusercontent.com/x--kKdF7THQZARr2VfWQ-oNG5OS-Hqp_pZ2jgpSAgqsGdpbmnc88ghA1sNvfpybtnR7dsECQvSUJyhhKw9S9tdVjgr2EacxqlkGtVpowZPvR9MX_a9wY5jzpr3dX2eBCaQ)
 
 Bước 2: Sau đó bấm vào Links của chủ đề cần tải về. (Danh sách liệt kê bên trên)
 Bước 3: Di chuyển chuột đến bài cần tải -> bấm vào nút Download (xem hình minh họa bên dưới)
