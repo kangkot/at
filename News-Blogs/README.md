@@ -1,2 +1,3 @@
 - [RFI Vietnamese](http://95.81.155.3/2584/rfi_en_vietnamien/rfivietnamien.mp3)
 - [KNote](http://knote.com/) — Productivity. Collaboration. Flow.
+- [SBS Vietnamese](http://feeds.feedburner.com/vietnamese)
