@@ -1,0 +1,7 @@
+- https://images.google.com/
+- http://search.creativecommons.org/
+- http://photopin.com/
+- http://www.behold.cc/
+- http://www.everystockphoto.com/
+- http://www.veezzle.com/
+- http://www.picfindr.com/
