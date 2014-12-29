@@ -1,5 +1,6 @@
 ## Awesome lists
 
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) — List of awesome university courses for learning Computer Science
 * [awesome-doctrine](https://github.com/TomasVotruba/awesome-doctrine) – Doctrine ORM libraries and resources.
 * [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 * [awesome-health](https://github.com/prabhic/awesome-health) – Useful health resources.
