@@ -21,13 +21,13 @@ Dưới đây là một số nguồn mình đã nghe. Bạn nào biết nguồn 
 
 ## Nguồn nghe cho bạn mới bắt đầu
 
-1. http://learningenglish.voanews.com/ ( anh mỹ) -> chọn level mới bắt đầu nhé
+1. http://learningenglish.voanews.com/ (anh mỹ) -> chọn level mới bắt đầu nhé
 1. http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/ (anh anh)
 1. http://learnenglish.britishcouncil.org/en/elementary-podcasts (anh anh)
 
 ### Nâng cao
 
-1. http://learningenglish.voanews.com/ ( anh mỹ)
+1. http://learningenglish.voanews.com/ (anh mỹ)
 1. https://learnenglish.britishcouncil.org/en/magazine (anh anh)
 1. http://www.cnn.com/studentnews/ (anh mỹ)
 1. http://www.ted.com/ (tổng hợp)
