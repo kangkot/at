@@ -1,4 +1,5 @@
 - http://www.emoji-cheat-sheet.com/
+- https://www.skrill.com/en/personal/fees/
 
 ### Referral accounts
 
