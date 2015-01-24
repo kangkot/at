@@ -1,1 +1,1 @@
-1. Email domains /config/edit/auth.email-domains/
+1. Email domains — `/config/edit/auth.email-domains/`
