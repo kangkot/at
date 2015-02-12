@@ -1,4 +1,4 @@
-~[](http://www.opendrive.com/files/MV84Mzg4NjU4N19sWUhDTg/10961629_636274339852823_1962097853_n.jpg)
+![](http://www.opendrive.com/files/MV84Mzg4NjU4N19sWUhDTg/10961629_636274339852823_1962097853_n.jpg)
 
 ```
 Lời Tôn Vinh Chúa của Trần Thị Thi
