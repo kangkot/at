@@ -1,5 +1,3 @@
-![](http://www.opendrive.com/files/MV84Mzg4NjU4N19sWUhDTg/10961629_636274339852823_1962097853_n.jpg)
-
 ```
 Lời Tôn Vinh Chúa của Trần Thị Thi
 
@@ -82,3 +80,17 @@ Thật đáng đồng tình với sứ đồ của Chúa là ông Phi-e-rơ: L�
 
 TRẦN THỊ THI
 ```
+
+### Chuyến đi thăm Bà Trần Thị Thi ở Đấm Dơi 12/2/2015
+
+![](http://www.opendrive.com/files/MV84Mzg4NjU4N19sWUhDTg/10961629_636274339852823_1962097853_n.jpg)
+
+Từ trái sang phải: Thành, Thảo Nhân, Bà Thi, Hồng Nhạn
+
+Bà có biết chuyện Hội Thành, Bà buồn và có cầu thay cho Hội Thánh
+
+Bà có gửi lời hỏi thăm tất cả ông bà anh chị em trong Hội Thánh
+
+Trong ân điển của Đức Chúa Jesus Christ
+
+Lâm Việt Thành 1994
