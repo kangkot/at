@@ -1,3 +1,6 @@
+~[](http://www.opendrive.com/files/MV84Mzg4NjU4N19sWUhDTg/10961629_636274339852823_1962097853_n.jpg)
+
+```
 Lời Tôn Vinh Chúa của Trần Thị Thi
 
 VINH DANH ĐỨC CHÚA TRỜI SIÊU VIỆT
@@ -78,3 +81,4 @@ Amen.
 Thật đáng đồng tình với sứ đồ của Chúa là ông Phi-e-rơ: Lạy Chúa, chung tôi đi theo ai? Chúa có những lời của sự sống đời đời; chúng tôi đã tin và nhận biết rằng Chúa là Đấng Thánh của Đức Chúa Trời." (Giăng 6:68-69)
 
 TRẦN THỊ THI
+```
