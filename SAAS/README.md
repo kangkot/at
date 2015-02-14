@@ -1,4 +1,5 @@
 - [ChimpFeedr](http://chimpfeedr.com/) — Feed merger by Mailchimp
+- [MX Record checking] https://toolbox.googleapps.com/apps/checkmx/
 
 ## Business
 
