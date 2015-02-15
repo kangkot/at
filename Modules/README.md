@@ -13,21 +13,21 @@
 
 ## Admin
 
-1. [navbar](https://drupal.org/project/navbar) — Mobile Friendly Navigation Toolbar.
-2. [admin_views](https://www.drupal.org/project/admin_views) — Replaces administrative overview/listing pages with actual views for superior usability.
-3. [Views Bulk Operations](https://www.drupal.org/project/views_bulk_operations) — This shows a checkbox in front of each node, and adding a select box containing operations that can be applied. Drupal Core or Rules actions can be used.
-4. [responsive_preview](https://drupal.org/project/responsive_preview) — Responsive Theme Preview.
-5. [CKEditor](https://drupal.org/project/ckeditor) — WYSIWYG HTML editor.
-6. [quickedit](https://www.drupal.org/project/quickedit) — In-place editing for fields on any entity. Including WYSIWYG editing powered by CKEditor.
-7. [Module filter](https://www.drupal.org/project/module_filter)
+1. [admin_views](https://www.drupal.org/project/admin_views) — Replaces administrative overview/listing pages with actual views for superior usability.
+1. [CKEditor](https://www.drupal.org/project/ckeditor) — WYSIWYG HTML editor.
+1. [Module filter](https://www.drupal.org/project/module_filter)
+1. [navbar](https://www.drupal.org/project/navbar) — Mobile Friendly Navigation Toolbar.
+1. [quickedit](https://www.drupal.org/project/quickedit) — In-place editing for fields on any entity. Including WYSIWYG editing powered by CKEditor.
+1. [responsive_preview](https://www.drupal.org/project/responsive_preview) — Responsive Theme Preview.
+1. [Views Bulk Operations](https://www.drupal.org/project/views_bulk_operations) — This shows a checkbox in front of each node, and adding a select box containing operations that can be applied. Drupal Core or Rules actions can be used.
 
 ## Mobile
 
-1. https://www.drupal.org/project/picture
-2. https://www.drupal.org/project/breakpoints
-3. https://www.drupal.org/project/responsive_tables
-4. https://www.drupal.org/project/views_responsive_grid
-5. [RESTful Web Services](https://drupal.org/project/restws) — Exposes Drupal resources (e.g. entities) as RESTful web services.
+1. [breakpoints](https://www.drupal.org/project/breakpoints)
+1. [picture](https://www.drupal.org/project/picture)
+1. [responsive_tables](https://www.drupal.org/project/responsive_tables)
+1. [RESTful Web Services](https://www.drupal.org/project/restws) — Exposes Drupal resources (e.g. entities) as RESTful web services.
+1. [views_responsive_grid](https://www.drupal.org/project/views_responsive_grid)
 
 ## Solutions
 
