@@ -1,0 +1,5 @@
+location ~ .*sites/dev.example.com/files/.+$ {
+  if ($host ~* "my-dev-site.com") {
+    rewrite ^.+/files/(.+)$ http://production-site.com/sites/default/files/$1 last;
+  }
+}

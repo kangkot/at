@@ -1,0 +1,18 @@
+#!/bin/bash
+
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/local/sbin:/opt/local/bin:/usr/bin:/usr/sbin:/bin:/sbin
+
+if [ -e "/var/run/phabricator_wait.pid" ] ; then
+  exit 0
+else
+  touch /var/run/phabricator_wait.pid
+  sleep 30
+  
+  if [ -e "/var/aegir/static/p/phabricator/bin/phd" ] ; then
+    /usr/bin/php /var/aegir/static/p/phabricator/bin/phd restart
+  fi
+  
+  rm -f /var/run/phabricator_wait.pid
+  exit 0
+fi
