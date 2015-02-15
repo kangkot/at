@@ -5,6 +5,7 @@
 5. [nvd3](http://nvd3.org/) — Re-usable charts for d3.js
 6. [select2](http://ivaynberg.github.io/select2/)
 7. lunrjs.com
+8. [Growl](https://github.com/aheinze/Growl) - a simple notification system inspired by growl for the mac os.
 
 ### Database
 
