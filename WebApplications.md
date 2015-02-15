@@ -1,0 +1,2 @@
+- [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
+- [Erpal](http://www.erpal.info/de) — Flexible and open business applications (Issue tracker, CRM, Invoice, Time tracking, Calendar, …)
