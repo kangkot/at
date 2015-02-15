@@ -1,1 +1,3 @@
 - [biblia.com](http://biblia.com/books/esv/Jn)
+- http://www.biblegateway.com/
+- http://www.vietchristian.com/kinhthanh/
