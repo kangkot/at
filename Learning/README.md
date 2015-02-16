@@ -8,17 +8,6 @@
 3. [Tiny To Computer Science](http://tinytocs.org)
 4. [InfoQ](http://www.infoq.com) — Software Development News
 
-## Books
-
-1. [APIs: A Strategy Guide](http://shop.oreilly.com/product/0636920021223.do)
-- [HTTP Succinctly](http://www.syncfusion.com/Content/downloads/ebook/HTTP_Succinctly.pdf)
-- [Postgres Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Postgres_Succinctly.pdf)
-- [Unittesting Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Unittesting_Succinctly.pdf)
-- [Cplusplus Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Cplusplus_Succinctly.pdf)
-- [Jquery Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Jquery_Succinctly.pdf)
-- [Git Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Git_Succinctly.pdf)
-- [Javascript Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Javascript_Succinctly.pdf)
-
 ## Principles
 
 ### GRASP
