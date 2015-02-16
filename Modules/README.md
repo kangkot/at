@@ -10,6 +10,7 @@
 1. [xautoload](https://www.drupal.org/project/xautoload) — Provide PSR-0 and PSR-4 autoloading for Drupal modules.
 2. [backup_migrate](http://drupal.org/project/backup_migrate)
 1. [pc](https://www.drupal.org/project/pc) — PHP Console, Drupal module to integrate php-console library, handy for Drupal developer.
+1. [SwiftMailer module](https://drupal.org/project/swiftmailer) — The Swift Mailer module extends the basic e-mail sending functionality provided by Drupal by delegating all e-mail handling to the Swift Mailer library.
 
 ## Admin
 
