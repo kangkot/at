@@ -20,3 +20,8 @@
 ### Tools
 
 - http://my.cl.ly/ (heyandy@x.v… / D…)
+
+### Money Transfer
+
+- Online account: Skrill, Paypal
+- US to VN: [Wellsfargo](https://chuyentien.vietinbank.vn/sites/home/vi/san-pham/chuyen-tien-ve-viet-nam/chuyen-tien-theo-ma-so/Chuyen-tien-Hoaky-WellsFargoExpressSend.html)
