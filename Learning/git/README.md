@@ -4,6 +4,7 @@
 1. [Git Cheat Sheet](http://git.io/gzLlgA)
 1. [Splitting a subfolder out into a new repository](http://git.io/1hPf_g)
 1. [Remove sensitive data](http://git.io/PIfdnw)
+1. [GitMinutes](http://episodes.gitminutes.com)
 
 ## Extra commands
 
