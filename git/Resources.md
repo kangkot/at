@@ -8,6 +8,7 @@
 ## Extra commands
 
 1. [git-up](https://github.com/aanand/git-up)
+- https://github.com/mhagger/git-imerge
 
 ## Commands
 
