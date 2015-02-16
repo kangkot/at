@@ -1,15 +1,18 @@
 ## Awesome companies
 
-- http://www.gizra.com/
 - http://getlevelten.com/
 - http://2bits.com/
 - http://bluedropawards.org/
 - https://codedrop.com.au/
 - http://www.civicactions.com/
 - https://commerceguys.com/
-- https://www.lullabot.com/
 - https://drupalize.me/
-- http://www.mediacurrent.com/
+- [Gizra](http://www.gizra.com/blog/)
+- [PreviousNext](http://www.previousnext.com.au/blog)
+- [Lullabot](https://www.lullabot.com/blog)
+- [GetPantheon](https://www.getpantheon.com/blog)
+- [MediaCurrent](http://www.mediacurrent.com/blog)
+- [Tag1Consulting](https://www.drupal.org/marketplace/tag1consulting)
 
 ## Awesome people
 
