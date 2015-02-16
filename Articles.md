@@ -3,7 +3,8 @@
 ## Restful
 
 1. [RESTful best practices for Drupal](https://github.com/Gizra/restful)
-1. [RESTful Discovery - Who knows about your API?](http://www.gizra.com/content/restful-discovery/)
+- [RESTful Discovery - Who knows about your API?](http://www.gizra.com/content/restful-discovery/)
+- http://phase2technology.com/blog/drushful-thinking/
 
 ## Headless Drupal
 
