@@ -8,3 +8,4 @@
 - [Jquery Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Jquery_Succinctly.pdf)
 - [Git Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Git_Succinctly.pdf)
 - [Javascript Succinctly](http://www.syncfusion.com/Content/downloads/ebook/Javascript_Succinctly.pdf)
+- [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
