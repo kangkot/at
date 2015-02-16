@@ -4,3 +4,10 @@
 1. [Git Cheat Sheet](http://git.io/gzLlgA)
 1. [Splitting a subfolder out into a new repository](http://git.io/1hPf_g)
 1. [Remove sensitive data](http://git.io/PIfdnw)
+
+## Commands
+
+> Some interesting git commands I didn't know yet:
+
+- [ ] http://git-scm.com/docs/git-stripspace
+- [ ] http://git-scm.com/docs/git-request-pull
