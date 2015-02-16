@@ -5,6 +5,10 @@
 1. [Splitting a subfolder out into a new repository](http://git.io/1hPf_g)
 1. [Remove sensitive data](http://git.io/PIfdnw)
 
+## Extra commands
+
+1. [git-up](https://github.com/aanand/git-up)
+
 ## Commands
 
 > Some interesting git commands I didn't know yet:
