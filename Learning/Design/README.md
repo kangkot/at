@@ -30,3 +30,4 @@
 - http://css-tricks.com/
 - [Aurelius, A premium Business and Portfolio theme](http://s3.amazonaws.com/nettuts/658_freeTemplate/Final%20File/index.html)
 - https://ui8.net/
+- https://github.com/evernote/sass-build-structure
