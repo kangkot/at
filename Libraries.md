@@ -20,11 +20,11 @@
 ## Others
 
 1. [Monolog](https://github.com/Seldaek/monolog)
-2. [Guzzle](http://docs.guzzlephp.org/en/latest/)
-3. [diff](https://github.com/sebastianbergmann/diff)
-4. [flysystem](https://github.com/thephpleague/flysystem) — Flysystem, many filesystems, one API
-5. [Go APO PHP](https://github.com/lisachenko/go-aop-php) — Go! AOP PHP - modern aspect-oriented framework for PHP with rich features such as method interception, dynamic interfaces, dynamic traits and much more for the new level of software development.
-6. [Phred](https://github.com/nazariyg/Phred) — Extends PHP to a consistent, fully object-oriented coding standard with Unicode support for OOP strings, components for i18n/L10n, and with other essential features for creating modern web applications.
-7. [youngj/httpserver](https://github.com/youngj/httpserver) — A simple HTTP server, written in PHP, that serves PHP scripts and static files
-8. [Faker CLI](https://github.com/bit3/faker-cli) — Command Line Tool for the Faker PHP library.
-
+- [Guzzle](http://docs.guzzlephp.org/en/latest/)
+- [diff](https://github.com/sebastianbergmann/diff)
+- [flysystem](https://github.com/thephpleague/flysystem) — Flysystem, many filesystems, one API
+- [Go APO PHP](https://github.com/lisachenko/go-aop-php) — Go! AOP PHP - modern aspect-oriented framework for PHP with rich features such as method interception, dynamic interfaces, dynamic traits and much more for the new level of software development.
+- [Phred](https://github.com/nazariyg/Phred) — Extends PHP to a consistent, fully object-oriented coding standard with Unicode support for OOP strings, components for i18n/L10n, and with other essential features for creating modern web applications.
+- [youngj/httpserver](https://github.com/youngj/httpserver) — A simple HTTP server, written in PHP, that serves PHP scripts and static files
+- [Faker CLI](https://github.com/bit3/faker-cli) — Command Line Tool for the Faker PHP library.
+- [Melody](http://melody.sensiolabs.org/) - one file Composer scripts
