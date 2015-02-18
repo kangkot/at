@@ -33,14 +33,17 @@ git log --all --graph \
 # Release notes
 git log tag1...tag2 --pretty=oneline --reverse --abbrev-commit
 
-# Git submodule
+# Misc
 # ---------------------
+
+# Git submodule
 git submodule add https://github.com/doctrine/DoctrineBundle.git bundles/DoctrineBundle
 
-
 # Delete all tags
-# ---------------------
 git tag | xargs git tag -d 
+
+# Remote all deleted files from repository
+git rm $(git ls-files --deleted)
 
 # Aliases
 # ---------------------
