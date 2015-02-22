@@ -28,3 +28,4 @@
 - [youngj/httpserver](https://github.com/youngj/httpserver) — A simple HTTP server, written in PHP, that serves PHP scripts and static files
 - [Faker CLI](https://github.com/bit3/faker-cli) — Command Line Tool for the Faker PHP library.
 - [Melody](http://melody.sensiolabs.org/) - one file Composer scripts
+- [php vsf](https://github.com/adlawson/php-vfs) — Virtual File System
