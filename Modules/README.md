@@ -21,6 +21,7 @@
 1. [quickedit](https://www.drupal.org/project/quickedit) — In-place editing for fields on any entity. Including WYSIWYG editing powered by CKEditor.
 1. [responsive_preview](https://www.drupal.org/project/responsive_preview) — Responsive Theme Preview.
 1. [Views Bulk Operations](https://www.drupal.org/project/views_bulk_operations) — This shows a checkbox in front of each node, and adding a select box containing operations that can be applied. Drupal Core or Rules actions can be used.
+2. [date_popup_authored](https://www.drupal.org/project/date_popup_authored) provides a jQuery UI datepicker for the Authored on date field found on node submission forms. This allows content editors to pick a human-understandable date and not have to type the exact date format of the default Authored on field.
 
 ## Mobile
 
