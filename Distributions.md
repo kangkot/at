@@ -14,7 +14,11 @@
 - [fluxkraft](http://www.fluxkraft.com) — Connect and automate services like Facebook, Dropbox, your blog, your CRM and your projectmanagement-software.
 - [Open Academy](https://www.drupal.org/project/openacademy) - OpenAcademy is a Drupal distribution that brings the best in web publishing for higher education on a customizable Drupal platform. This distribution is a flexible, extendable package that lets university departments run fully functional, polished websites straight out of the box.
 - [Open Atrium](http://openatrium.com) - Open Atrium is open source collaboration software that enables organizations to securely connect their teams, projects, and knowledge. A powerful solution, Open Atrium’s framework allows your organization to easily integrate your existing software, while remaining flexible enough to change as your organization grows. With Open Atrium, you can better communicate, educate, and inform your organization by creating solutions such as an intranet, social collaboration platform, web portal, or learning management system.
+
+### Base distributions
+
 - [Panopoly](https://www.drupal.org/project/panopoly) - Panopoly is powerful base distribution of Drupal powered by lots of Chaos Tools and Panels magic. The distribution is designed to be both a general foundation for site building and a base framework upon which to build other Drupal distributions.
+- [wetkit](https://www.drupal.org/project/wetkit) — The Drupal WxT distribution is a web content management system which assists in building and maintaining innovative Web sites that are accessible, usable, and interoperable. This distribution is open source software and free for use by departments and external Web communities.
 
 ### Others
 
