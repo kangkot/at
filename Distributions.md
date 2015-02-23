@@ -19,6 +19,7 @@
 
 - [Panopoly](https://www.drupal.org/project/panopoly) - Panopoly is powerful base distribution of Drupal powered by lots of Chaos Tools and Panels magic. The distribution is designed to be both a general foundation for site building and a base framework upon which to build other Drupal distributions.
 - [wetkit](https://www.drupal.org/project/wetkit) — The Drupal WxT distribution is a web content management system which assists in building and maintaining innovative Web sites that are accessible, usable, and interoperable. This distribution is open source software and free for use by departments and external Web communities.
+- [Lightning](https://www.drupal.org/project/lightning) — A fast and feature-rich Drupal distribution, Lightning is a base profile that can be used as a whole or in parts by other projects.
 
 ### Others
 
