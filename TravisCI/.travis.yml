@@ -1,0 +1,30 @@
+language: php
+php:
+  - 5.4
+  - 5.5
+
+branches:
+  only:
+    - master
+    - dev
+
+matrix:
+  fast_finish: true
+
+install:
+  # ---------------------
+  # Install Drush
+  # ---------------------
+  - export PATH="$HOME/.composer/vendor/bin:$PATH"
+  - composer global require drush/drush:dev-master
+
+before_script:
+  # ---------------------
+  # Disable mailing
+  # ---------------------
+  - echo 'sendmail_path = /bin/true' >> ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/travis.ini
+
+script: phpunit
+
+notifications:
+  email: false
