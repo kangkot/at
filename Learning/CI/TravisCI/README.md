@@ -1,1 +1,2 @@
+- [Examples](https://github.com/andytruong/pad/tree/snippets/TravisCI)
 - http://docs.travis-ci.com/user/caching/
