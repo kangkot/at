@@ -17,11 +17,12 @@
 - HTML/CSS/JS: Bootstrap, responsive, AngularJS/Backbone, underscore, SASS/Compass/Singularirity, …
 - Mobile: IonicFramework
 
-### Tools
-
-- http://my.cl.ly/ (heyandy@x.v… / D…)
-
 ### Money Transfer
 
 - Online account: Skrill, Paypal
 - US to VN: [Wellsfargo](https://chuyentien.vietinbank.vn/sites/home/vi/san-pham/chuyen-tien-ve-viet-nam/chuyen-tien-theo-ma-so/Chuyen-tien-Hoaky-WellsFargoExpressSend.html)
+
+### Tools
+
+- http://my.cl.ly/ (heyandy@x.v… / D…)
+- http://thenounproject.com — Icons
