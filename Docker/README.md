@@ -14,6 +14,12 @@ docker rmi -f SHA     # Remove image by SHA
 docker search php     # Search for PHP image
 docker pull   centos  # Get public `centos` image, nth time, will pull new changes of image.
 docker rmi    centos  # Remove `centos` image
+
+## Manage containers
+docker ps -a       # List all container
+docker rm NAME     # Remove container by name, we can use SHA for this too.
+docker start NAME  # Start a container
+docker attach NAME # Run container's bash console
 ```
 
 ### App
