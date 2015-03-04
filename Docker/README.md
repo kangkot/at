@@ -21,6 +21,7 @@ docker rmi    centos  # Remove `centos` image
 docker ps -a       # List all container
 docker rm NAME     # Remove container by name, we can use SHA for this too.
 docker start NAME  # Start a container
+docker stop  NAME  # Stop a container
 docker attach NAME # Run container's bash console
 ```
 
