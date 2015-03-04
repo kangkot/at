@@ -9,10 +9,11 @@ docker top       box_name  # top process inside the box
 docker inspect box_name # get box status, data return in json format
 
 ## Manage images
-docker images       # list images
-docker search php # Search for PHP image
-docker pull centos  # Get public `centos` image, nth time, will pull new changes of image.
-docker rmi centos   # Remove `centos` image
+docker images         # list images
+docker rmi -f SHA     # Remove image by SHA
+docker search php     # Search for PHP image
+docker pull   centos  # Get public `centos` image, nth time, will pull new changes of image.
+docker rmi    centos  # Remove `centos` image
 ```
 
 ### App
