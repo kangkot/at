@@ -10,6 +10,7 @@
 ## Newsletter
 
 - [Enom Resellers](http://us3.campaign-archive1.com/home/?u=8ce9b1cf65217c5ae0ae0e5f3&id=7c774747ce)
+- [Docker Weekly](https://www.docker.com/subscribe_newsletter/)
 
 ## …
 
