@@ -6,3 +6,9 @@ html_errors = On
 display_startup_errors = On
 log_errors = On
 ```
+
+### Install composer
+
+    curl -sS https://getcomposer.org/installer | php
+    chmod a+x composer.phar
+    mv composer.phar /usr/local/bin/composer
