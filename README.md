@@ -1,7 +1,7 @@
-```
-1.   b.v3k.net -> Bookmarks
-2.   d.v3k.net -> Drupal
-2.   i.v3k.net -> Issues
-3.   s.v3k.net -> Snippets
-4. p.s.v3k.net -> PHP snippets
-```
+Domain      | Link
+----------- | -----------------------------------
+b.v3k.net   | [Bookmarks](http://b.v3k.net)
+d.v3k.net   | [Drupal](http://d.v3k.net)
+i.v3k.net   | [Issues](http://i.v3k.net)
+s.v3k.net   | [Snippets](http://s.v3k.net)
+p.s.v3k.net | [PHP snippets](http://p.s.v3k.net)
