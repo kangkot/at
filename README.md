@@ -18,3 +18,11 @@ log_errors = On
 
     export PATH="$HOME/.composer/vendor/bin:$PATH"
     composer global require drush/drush:~7.0.0-alpha1
+
+## Barracuda
+
+    cd;wget -q -U iCab http://files.aegir.cc/BOA.sh.txt;bash BOA.sh.txt
+
+### Update
+
+    barracuda up-stable
