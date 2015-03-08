@@ -11,6 +11,8 @@ Docker
 ### Softwares
 
 1. [Dokku Alt](https://dokku-alt.github.io) is a Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
+- [quay.io](https://quay.io) — Free Docker image registry for public repositories.
+- [tutum](https://www.tutum.co/features/) — The Docker Platform for Dev and Ops
 
 ### Articles
 
