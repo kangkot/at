@@ -35,3 +35,11 @@ chmod 600 ~/.ssh/authorized_keys
 ### Commands
 
 1. [osquery by Facebook](https://github.com/facebook/osquery) SQL powered operating system instrumentation and monitoring.
+
+## Syntax
+
+```bash
+# If sub string
+string='My long string';
+if [[ $string == *"My long"* ]] then; echo "It's there!"; fi
+```
