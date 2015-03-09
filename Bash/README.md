@@ -22,7 +22,10 @@ chmod 600 ~/.ssh/authorized_keys
 
 #### tar
 
+    # Uncompress a .tar.bz2 file
     tar -xjvf example.tar.bz2
+    
+    # Compress a directory
     tar -zcvf prog-1-jan-2005.tar.gz /home/jerry/prog
 
 #### [flush dns cache](http://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
