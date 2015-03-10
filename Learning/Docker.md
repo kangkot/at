@@ -29,6 +29,7 @@ Docker
   1. [Networking and Communication](http://j.mp/1HfbrIC)
   1. [Scheduling and Orchestration](http://j.mp/1BUuo38)
 - [Shipping Node.js Applications with Docker and Codeship](http://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/)
+- [Digital Ocean + Dokku = 10$ Heroku](http://beletsky.net/2013/08/digitalocean-plus-dokku-equals-10-heroku.html)
 
 ### Misc
 
