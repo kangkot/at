@@ -21,6 +21,7 @@
     docker start NAME  # Start a container
     docker stop  NAME  # Stop a container
     docker attach NAME # Run container's bash console
+    docker inspect -f '{{ .NetworkSettings.IPAddress }}' NAME # Inspect container value.
 
 #### Commit
 
