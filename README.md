@@ -34,3 +34,7 @@
 1. [PHP Secure Configuration Checker](https://github.com/sektioneins/pcc)
 1. [JoliCi](https://github.com/jolicode/JoliCi) - Run your TravisCi builds locally
 1. [Short array syntax convertor](https://github.com/thomasbachem/php-short-array-syntax-converter) — Command-line script to convert PHP's array() syntax to PHP 5.4's short array syntax [].
+
+## Articles
+
+1. [Securely Distributing PHARs: Pitfalls and Solutions](http://blog.astrumfutura.com/2015/03/securely-distributing-phars-pitfalls-and-solutions/)
