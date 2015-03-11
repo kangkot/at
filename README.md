@@ -7,6 +7,10 @@ display_startup_errors = On
 log_errors = On
 ```
 
+### Override default settings on run PHP CLI
+
+    php -d memory_limit=1024M my_script.php
+
 ### Install composer
 
     curl -sS https://getcomposer.org/installer | php
