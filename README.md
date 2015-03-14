@@ -11,22 +11,35 @@ log_errors = On
 
     php -d memory_limit=1024M my_script.php
 
-### Install composer
+### Install CLI apps
 
+    # Composer
     curl -sS https://getcomposer.org/installer | php
     chmod a+x composer.phar
     mv composer.phar /usr/local/bin/composer
-
-
-### Install Drush
-
+    
+    # Drush
     export PATH="$HOME/.composer/vendor/bin:$PATH"
     composer global require drush/drush:~7.0.0-alpha1
 
 ## [Barracuda](https://github.com/omega8cc/boa)
 
     cd;wget -q -U iCab http://files.aegir.cc/BOA.sh.txt;bash BOA.sh.txt
-
-### Update
-
+    
+    # Update
     barracuda up-stable
+
+## Misc
+
+### [PHP Annotation](https://github.com/php-annotations/php-annotations)
+
+```php
+
+/**
+ * @method        getX() getX(string $param1, $int $param2)
+ * @method static getY() getY()
+ * @method {type} {func(type arg, type arg, ...)} {description} : defines a magic/virtual method
+ */
+class Foo {}
+```
+
