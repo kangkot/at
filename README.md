@@ -10,6 +10,7 @@
 4. [InfoQ](http://www.infoq.com/php/)
 5. [Slides of the Forum PHP Paris 2014](https://gist.github.com/antfroger/6da522662de5a36ec6bc)
 6. [clearPHP](https://github.com/dseguy/clearPHP) — Reference for writing clear PHP code
+7. [Must watch Videos](https://github.com/phptodayorg/php-must-watch)
 
 ## Standards
 
