@@ -2,3 +2,6 @@
 - [Erpal](http://www.erpal.info/de) — Flexible and open business applications (Issue tracker, CRM, Invoice, Time tracking, Calendar, …)
 - [OSTicket](http://osticket.com) — Support ticket system
 - [LiveHelperChat](https://livehelperchat.com) — Live helper chat widget.
+- Social Network Platform
+  - [Dolphin](http://phpdolphin.com)
+  - http://elgg.org
