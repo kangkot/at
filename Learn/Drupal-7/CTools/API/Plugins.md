@@ -67,7 +67,7 @@ foreach (ctools_get_plugins('example', 'hello') as $hello_plugin) {
 }
 ```
 
-### 4. Helper functions
+### 4. [Helper functions](http://drupalcontrib.org/api/drupal/contributions!ctools!includes!plugins.inc/7)
 
 1. ctools_find_base_themes
 1. ctools_get_plugins
