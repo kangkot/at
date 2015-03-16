@@ -1,4 +1,10 @@
-### Provided plugins
+### Providing plugins
+
+1. tasks
+- task_handler
+- page_wizards
+
+### Plugin implementation
 
 1. ctools/cache/page_manager_context
 - ctools/tasks/{blog, comment, contact, node, page, poll, search, term, user}
