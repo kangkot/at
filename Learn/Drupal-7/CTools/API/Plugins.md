@@ -90,3 +90,9 @@ foreach (ctools_get_plugins('example', 'hello') as $hello_plugin) {
 1. _ctools_list_themes
 1. _ctools_process_data
 
+### 5. Providing hooks
+
+1. hook_ctools_plugin_type()
+- hook_ctools_plugin_directory($owner, $plugin_type)
+- hook_ctools_plugin_pre_alter(&$plugin, &$info)
+- hook_ctools_plugin_post_alter(&$plugin, &$info)
