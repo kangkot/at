@@ -40,7 +40,7 @@ function my_module_ctools_plugin_directory() {
 
 Then, create the file, write details
 
-```
+```php
 // @file ./plugins/hello/vietnamese.inc
 
 $plugin = array(
