@@ -1,15 +1,15 @@
 ## Plugin API
 
-(1) hook_ctools_plugin_type
+### (1) hook_ctools_plugin_type
 
 - [API](http://j.mp/1Lh5vnW)
 - [Help](http://j.mp/1AtHOi2)
 
-(2) Implement a plugin
+### (2) Implement a plugin
 
 There are two way to do
 
-(2.1) Implement hook_MODULE_PLUGIN
+#### (2.1) Implement hook_MODULE_PLUGIN
 
 If module owner is 'example' and plugin type is 'hello', then the implementation should be:
 
@@ -26,7 +26,7 @@ function my_module_example_hello() {
 }
 ```
 
-(2.2) Define implementation in file
+#### (2.2) Define implementation in file
 
 First, we have to implements hook_ctools_plugins_directory
 
@@ -58,7 +58,7 @@ class SayHelloInVietnamese implements ExampleHelloPluginInterface {
 
 ```
 
-(3) Load plugin implementations
+### (3) Load plugin implementations
 
 ```php
 foreach (ctools_get_plugins('example', 'hello') as $hello_plugin) {
