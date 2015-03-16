@@ -7,6 +7,6 @@
 
 (2) Load plugin implementations
 
-    ```php
-    $operations = ctools_get_plugins('OWNER_MODULE', 'PLUGIN_TYPE');
-    ```
+```php
+$operations = ctools_get_plugins('OWNER_MODULE', 'PLUGIN_TYPE');
+```
