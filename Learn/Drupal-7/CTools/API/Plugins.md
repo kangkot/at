@@ -66,3 +66,27 @@ foreach (ctools_get_plugins('example', 'hello') as $hello_plugin) {
   (new $class)->sayHello();
 }
 ```
+
+### 4. Helper functions
+
+1. ctools_find_base_themes
+1. ctools_get_plugins
+1. ctools_get_plugins_reset
+1. ctools_plugin_api_get_hook
+1. ctools_plugin_api_include
+1. ctools_plugin_api_info
+1. ctools_plugin_get_class
+1. ctools_plugin_get_directories
+1. ctools_plugin_get_function
+1. ctools_plugin_get_info
+1. ctools_plugin_get_plugin_type_info
+1. ctools_plugin_load_class
+1. ctools_plugin_load_function
+1. ctools_plugin_load_hooks
+1. ctools_plugin_load_includes
+1. ctools_plugin_process
+1. ctools_plugin_process_info
+1. ctools_plugin_sort
+1. _ctools_list_themes
+1. _ctools_process_data
+
