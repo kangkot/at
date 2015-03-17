@@ -1,0 +1,16 @@
+name = Really Neat Widget
+core = 7.x
+description = Provides a really neat widget for your site's sidebar.
+package = Views
+
+php = 5.4
+dependencies[] = views
+dependencies[] = panels
+
+files[] = tests/example.test
+configure = admin/config/content/example
+
+; required = true
+; hidden = true
+; project = module_name
+; project status url = http://my.domain.com/projects/{project}/{core}
