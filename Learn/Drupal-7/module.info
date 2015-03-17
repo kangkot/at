@@ -10,6 +10,9 @@ dependencies[] = panels
 files[] = tests/example.test
 configure = admin/config/content/example
 
+stylesheets[all][] = node.css
+scripts[] = somescript.js
+
 ; required = true
 ; hidden = true
 ; project = module_name
