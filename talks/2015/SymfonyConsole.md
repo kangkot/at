@@ -1,3 +1,7 @@
+I presented this topic at PHP Saigon UG, March 2015.
+
+The full presentation can be found [here](http://slides.com/andytruong/sf2-console#/2/5).
+
 ### 1. Require the library
 
 ```json
