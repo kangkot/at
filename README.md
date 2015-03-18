@@ -10,6 +10,6 @@ Key | Read
 ⇧	  | Shift
 ⇪	  | Caps
 
-### Run multiple Hipchat instance
+### Run multiple Hipchat instances
 
     /Applications/HipChat.app/Contents/MacOS/HipChat &
