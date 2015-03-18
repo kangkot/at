@@ -1,5 +1,6 @@
+## Mac
 
-### Mac shortcuts
+### Shortcuts
 
 Key | Read
 --- | ---
@@ -8,3 +9,7 @@ Key | Read
 ⌥	  | Option
 ⇧	  | Shift
 ⇪	  | Caps
+
+### Run multiple Hipchat instance
+
+    /Applications/HipChat.app/Contents/MacOS/HipChat &
