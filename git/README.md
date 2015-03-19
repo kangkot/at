@@ -40,6 +40,11 @@ git log tag1...tag2 --pretty=oneline --reverse --abbrev-commit
 # Git submodule
 git submodule add https://github.com/doctrine/DoctrineBundle.git bundles/DoctrineBundle
 
+# Git subtree
+git remote add my-subtree git@github.com:vinibaggio/my-subproject.git
+git subtree add —-prefix=vendor/ my-subtree master
+git subtree pull —prefix=vendor my-subtree master
+
 # Delete all tags
 git tag | xargs git tag -d 
 
