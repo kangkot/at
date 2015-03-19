@@ -1,3 +1,4 @@
+```bash
 # Start
 # ---------------------
 git config --global user.name "First Last"
@@ -49,3 +50,4 @@ git rm $(git ls-files --deleted)
 # ---------------------
 ls = log --oneline
 caa = commit -a --amend -C HEAD
+```
