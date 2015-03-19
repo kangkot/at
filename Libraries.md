@@ -1,6 +1,7 @@
 1. [Restler](https://github.com/Luracast/Restler) — Simple API Framework
-1. [PHP Parser](https://github.com/nikic/PHP-Parser/) — The best PHP Parser
-2. [StashPHP](http://www.stashphp.com/)
+- [PHP Parser](https://github.com/nikic/PHP-Parser/) — The best PHP Parser
+- [StashPHP](http://www.stashphp.com/)
+- [jms/serializer](http://jmsyst.com/libs/serializer)
 
 ## Routing
 
