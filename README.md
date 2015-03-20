@@ -1,3 +1,15 @@
+## Code
+
+### PHP library/app
+
+1. https://github.com/atphp/common
+- https://github.com/atphp/uuid
+- https://github.com/atphp/event
+- https://github.com/atphp/serializer
+- https://github.com/atphp/yaml
+- https://github.com/atphp/make-parser
+- [GitHub mirror](https://github.com/atphp/github-mirror) #slim #app
+
 ## Talks
 
 ### 2012
