@@ -13,21 +13,18 @@
 ### Drupal
 
 1. [@base](https://github.com/atdrupal/at_base.module) #api #proud
-- [api_webhook](https://www.drupal.org/project/api_webhook)
-- [entity_hint](https://www.drupal.org/project/entity_hint)
-- [quizz](https://www.drupal.org/project/quizz)
-- [quizz_cloze](https://www.drupal.org/project/quizz_cloze)
-- [quizz_scale](https://www.drupal.org/project/quizz_scale)
-- [quizz_matching](https://www.drupal.org/project/quizz_matching)
-- [field_index](https://www.drupal.org/project/field_index)
-- [commerce_checkout_progress](https://www.drupal.org/project/commerce_checkout_progress)
-- [dc_cart_ajax](https://www.drupal.org/project/dc_cart_ajax)
-- [dc_co_pages](https://www.drupal.org/project/dc_co_pages)
-- [fbphoto](https://www.drupal.org/project/fbphoto)
-- [fapi_multiselect](https://www.drupal.org/project/fapi_multiselect)
-- [vote_flag_item](https://www.drupal.org/project/vote_flag_item)
-- [drupal_client_drush](https://www.drupal.org/project/drupal_client_drush)
-- https://github.com/atdrupal/make
+- [api_webhook](http://dgo.to/api_webhook) #process #automation
+- [entity_hint](http://dgo.to/entity_hint) #dx
+- [quizz](http://dgo.to/quizz), [quizz_cloze](http://dgo.to/quizz_cloze), [quizz_scale](http://dgo.to/quizz_scale), [quizz_matching](http://dgo.to/quizz_matching)
+- [field_index](http://dgo.to/field_index) #performance
+- [commerce_checkout_progress](http://dgo.to/commerce_checkout_progress)
+- [dc_cart_ajax](http://dgo.to/dc_cart_ajax) #commerce
+- [dc_co_pages](http://dgo.to/dc_co_pages) #commerce
+- [fbphoto](http://dgo.to/fbphoto)
+- [fapi_multiselect](http://dgo.to/fapi_multiselect)
+- [vote_flag_item](http://dgo.to/vote_flag_item)
+- [drupal_client_drush](http://dgo.to/drupal_client_drush)
+- https://github.com/atdrupal/make #automation
 - [Enom Domain Integration](http://youtu.be/8_Fh0d912HI) #video
 - [Enom Hosting Integration](http://youtu.be/RetKJledrkA) #video
 
