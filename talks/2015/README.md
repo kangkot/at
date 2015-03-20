@@ -4,3 +4,4 @@
 - [Observer design pattern, Symfony2 Event dispatcher component](https://hackpad.com/Event-dispatcher-rScfEsuXLWn) #symfony #designpattern #php
 - [Symfony Console component](http://slides.com/andytruong/sf2-console) #symfony #console
 - [An introduction to Doctrine ORM](http://slides.com/andytruong/doctrine-orm) #doctrine #orm
+- [Restler — API Framework without learning curve](http://slides.com/andytruong/restler) #php #rest
