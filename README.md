@@ -23,13 +23,12 @@
 - [vote_flag_item](http://dgo.to/vote_flag_item)
 - [drupal_client_drush](http://dgo.to/drupal_client_drush)
 - https://github.com/atdrupal/make #automation
-- Enom [Domain Integration](http://youtu.be/8_Fh0d912HI), [Enom Hosting Integration](http://youtu.be/RetKJledrkA) #video #fun
+- Enom integrations: [Domain](http://youtu.be/8_Fh0d912HI), [Hosting](http://youtu.be/RetKJledrkA) #ubercart
 
 ## Talks/Organise
 
 - [Organise Drupal monthly meetup for Drupal local community](https://www.facebook.com/groups/drupalvn/events/)
 - [Organise PHP monthly meetup for PHP local community](http://www.meetup.com/PHP-Saigon/)
-
 
 ### 2015
 
