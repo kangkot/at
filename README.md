@@ -31,15 +31,22 @@
 - [Enom Domain Integration](http://youtu.be/8_Fh0d912HI) #video
 - [Enom Hosting Integration](http://youtu.be/RetKJledrkA) #video
 
-## Talks
+## Talks/Organise
+
+- [Organise Drupal monthly meetup for Drupal local community](https://www.facebook.com/groups/drupalvn/events/)
+- [Organise PHP monthly meetup for PHP local community](http://www.meetup.com/PHP-Saigon/)
 
 ### 2012
 
-- [Intro to Drupal](http://www.phpday.vn/sessions/đời-người-ngắn-ngủi-tôi-chọn-drupal)
+- [Intro to Drupal](http://j.mp/UOVSnu)
 
 ### 2013
 
 - [Drupal Hanoi meetup](https://www.facebook.com/events/512881438767738/)
+
+### 2014
+
+- [Drupal 8 fundamentals course](https://www.facebook.com/10152632948367122)
 
 ### 2015
 
