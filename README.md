@@ -10,6 +10,24 @@
 - https://github.com/atphp/make-parser
 - [GitHub mirror](https://github.com/atphp/github-mirror) #slim #app
 
+### Drupal modules
+
+1. [api_webhook](https://www.drupal.org/project/api_webhook)
+- [entity_hint](https://www.drupal.org/project/entity_hint)
+- [quizz](https://www.drupal.org/project/quizz)
+- [quizz_cloze](https://www.drupal.org/project/quizz_cloze)
+- [quizz_scale](https://www.drupal.org/project/quizz_scale)
+- [quizz_matching](https://www.drupal.org/project/quizz_matching)
+- [field_index](https://www.drupal.org/project/field_index)
+- [commerce_checkout_progress](https://www.drupal.org/project/commerce_checkout_progress)
+- [dc_cart_ajax](https://www.drupal.org/project/dc_cart_ajax)
+- [dc_co_pages](https://www.drupal.org/project/dc_co_pages)
+- [fbphoto](https://www.drupal.org/project/fbphoto)
+- [fapi_multiselect](https://www.drupal.org/project/fapi_multiselect)
+- [vote_flag_item](https://www.drupal.org/project/vote_flag_item)
+- [drupal_client_drush](https://www.drupal.org/project/drupal_client_drush)
+- https://github.com/atdrupal/make
+
 ## Talks
 
 ### 2012
