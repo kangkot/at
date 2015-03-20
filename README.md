@@ -23,8 +23,7 @@
 - [vote_flag_item](http://dgo.to/vote_flag_item)
 - [drupal_client_drush](http://dgo.to/drupal_client_drush)
 - https://github.com/atdrupal/make #automation
-- [Enom Domain Integration](http://youtu.be/8_Fh0d912HI) #video
-- [Enom Hosting Integration](http://youtu.be/RetKJledrkA) #video
+- Enom [Domain Integration](http://youtu.be/8_Fh0d912HI), [Enom Hosting Integration](http://youtu.be/RetKJledrkA) #video #fun
 
 ## Talks/Organise
 
