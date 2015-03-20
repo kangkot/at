@@ -48,14 +48,8 @@
 - [An introduction to PHPUnit](http://slides.com/andytruong/intro-to-phpunit) #php #qa #phpunit
 - [Restler — API Framework without learning curve](http://slides.com/andytruong/restler) #php #rest
 
-### 2014
+### Past
 
-- [Drupal 8 fundamentals course](https://www.facebook.com/10152632948367122)
-
-### 2013
-
-- [Drupal Hanoi meetup](https://www.facebook.com/events/512881438767738/)
-
-### 2012
-
-- [Intro to Drupal](http://j.mp/UOVSnu)
+- [Drupal 8 fundamentals course](https://www.facebook.com/10152632948367122) #2014
+- [Drupal Hanoi meetup](https://www.facebook.com/events/512881438767738/) #2013
+- [Intro to Drupal](http://j.mp/UOVSnu) #2012
