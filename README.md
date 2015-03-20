@@ -36,17 +36,6 @@
 - [Organise Drupal monthly meetup for Drupal local community](https://www.facebook.com/groups/drupalvn/events/)
 - [Organise PHP monthly meetup for PHP local community](http://www.meetup.com/PHP-Saigon/)
 
-### 2012
-
-- [Intro to Drupal](http://j.mp/UOVSnu)
-
-### 2013
-
-- [Drupal Hanoi meetup](https://www.facebook.com/events/512881438767738/)
-
-### 2014
-
-- [Drupal 8 fundamentals course](https://www.facebook.com/10152632948367122)
 
 ### 2015
 
@@ -58,3 +47,15 @@
 - [An introduction to Doctrine ORM](http://slides.com/andytruong/doctrine-orm) #doctrine #orm
 - [An introduction to PHPUnit](http://slides.com/andytruong/intro-to-phpunit) #php #qa #phpunit
 - [Restler — API Framework without learning curve](http://slides.com/andytruong/restler) #php #rest
+
+### 2014
+
+- [Drupal 8 fundamentals course](https://www.facebook.com/10152632948367122)
+
+### 2013
+
+- [Drupal Hanoi meetup](https://www.facebook.com/events/512881438767738/)
+
+### 2012
+
+- [Intro to Drupal](http://j.mp/UOVSnu)
