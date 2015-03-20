@@ -17,7 +17,7 @@
 - [entity_hint](http://dgo.to/entity_hint) #dx
 - [quizz](http://dgo.to/quizz), [cloze](http://dgo.to/quizz_cloze), [scale](http://dgo.to/quizz_scale), [matching](http://dgo.to/quizz_matching)
 - [field_index](http://dgo.to/field_index) #performance
-- [checkout progress](http://dgo.to/commerce_checkout_progress), [ajax cart](http://dgo.to/dc_cart_ajax), [checkout pages](http://dgo.to/dc_co_pages) #commerce
+- [ajax cart](http://dgo.to/dc_cart_ajax), [checkout progress](http://dgo.to/commerce_checkout_progress), [checkout pages](http://dgo.to/dc_co_pages) #commerce
 - [fbphoto](http://dgo.to/fbphoto)
 - [fapi_multiselect](http://dgo.to/fapi_multiselect)
 - [vote_flag_item](http://dgo.to/vote_flag_item)
