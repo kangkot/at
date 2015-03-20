@@ -15,7 +15,7 @@
 1. [@base](https://github.com/atdrupal/at_base.module) #api #proud
 - [api_webhook](http://dgo.to/api_webhook) #process #automation
 - [entity_hint](http://dgo.to/entity_hint) #dx
-- [quizz](http://dgo.to/quizz), [quizz_cloze](http://dgo.to/quizz_cloze), [quizz_scale](http://dgo.to/quizz_scale), [quizz_matching](http://dgo.to/quizz_matching)
+- [quizz](http://dgo.to/quizz), [cloze](http://dgo.to/quizz_cloze), [scale](http://dgo.to/quizz_scale), [matching](http://dgo.to/quizz_matching)
 - [field_index](http://dgo.to/field_index) #performance
 - [checkout progress](http://dgo.to/commerce_checkout_progress), [ajax cart](http://dgo.to/dc_cart_ajax), [checkout pages](http://dgo.to/dc_co_pages) #commerce
 - [fbphoto](http://dgo.to/fbphoto)
