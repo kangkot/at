@@ -1,6 +1,6 @@
 ## Code
 
-### PHP library/app
+### PHP
 
 1. https://github.com/atphp/common
 - https://github.com/atphp/uuid
@@ -10,7 +10,7 @@
 - https://github.com/atphp/make-parser
 - [GitHub mirror](https://github.com/atphp/github-mirror) #slim #app
 
-### Drupal modules
+### Drupal
 
 1. [@base](https://github.com/atdrupal/at_base.module) #api #proud
 - [api_webhook](https://www.drupal.org/project/api_webhook)
