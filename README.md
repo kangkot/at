@@ -13,14 +13,19 @@ log_errors = On
 
 ### Install CLI apps
 
+    # Add this line to ~/.bash_profile
+    export PATH="$HOME/.composer/vendor/bin:$PATH"
+
     # Composer
     curl -sS https://getcomposer.org/installer | php
     chmod a+x composer.phar
     mv composer.phar /usr/local/bin/composer
     
     # Drush
-    export PATH="$HOME/.composer/vendor/bin:$PATH"
     composer global require drush/drush:~7.0.0-alpha1
+    
+    # Install PHPUnit
+    composer global require phpunit/phpunit=~4.5.0
 
 ## [Barracuda](https://github.com/omega8cc/boa)
 
