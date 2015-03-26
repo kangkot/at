@@ -48,3 +48,17 @@ log_errors = On
 class Foo {}
 ```
 
+## xDebug
+
+### Proxying/Tunneling Your Debugger Connection
+
+    ssh -R 9000:localhost:9000 some_user_account@www.example.com
+
+### php.ini
+
+    zend_extension=xdebug.so
+    xdebug.idekey=PHPSTORM
+    xdebug.remote_handler=dbgp
+    xdebug.remote_host=localhost
+    xdebug.remote_enable=1
+    xdebug.remote_log=/var/log/php5-xdebug.log
