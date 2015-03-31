@@ -2,6 +2,11 @@ Các ông tập chuyên nghiệp (mấy ông tạo các bài hướng dẫn theo
 
 Mấy ổng lý luận tùm lum, nói thuốc mấy ổng là thực phẩm bổ sung, chứ chẳng phải thuốc, blah blah… tôi hông tin ^^
 
+## Resources
+
+- https://www.facebook.com/Swequity
+- BodyBuilding.com
+
 ## Kiến thức chung
 1. [[Swequity] Cách hít thở khi tập gym / thể hình](https://www.youtube.com/watch?v=7J5xemM_zDo&list=PLuCfiJ5Wl3JuMzXCcVmdezyaAr08gE41P&index=1)
 - [[Duy] Khóa Khớp Trong Tập Luyện Thể Hình GYM](http://www.thehinhonline.com.vn/baiviet/chitiet/khoa-khop-gym-fitness)
