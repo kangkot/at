@@ -9,6 +9,7 @@
 * [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) – Sass/SCSS extensions, articles, and examples.
 * [webfishdaily](http://www.webfishdaily.com)
 * [Github's styleguide](https://github.com/styleguide)
+* [Free for dev](https://github.com/ripienaar/free-for-dev)
 
 ## Open source solutions
 
