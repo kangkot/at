@@ -3,6 +3,7 @@
     cd ~/.ssh \
       && ssh-keygen -b 2048 -f identity -t rsa \
       && cat identity.pub >> .ssh/authorized_keys
+      && cat identity # this is the PEM file
 
 ### Key login
 
