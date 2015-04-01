@@ -13,4 +13,5 @@
 ## Open source solutions
 
 1. [KA Lite](https://learningequality.org/ka-lite/) — An offline version of Khan Academy. A free lightweight solution providing high-quality education where you need it most. Bringing the power of online learning to the offline world.
-2. [ProjectSend](http://www.projectsend.org) — Share files securely.
+- [ProjectSend](http://www.projectsend.org) — Share files securely.
+- [Kaltura](http://corp.kaltura.com) — Open source video
