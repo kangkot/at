@@ -1,3 +1,9 @@
+### PEM authentication
+
+    cd ~/.ssh \
+      && ssh-keygen -b 2048 -f identity -t rsa \
+      && cat identity.pub >> .ssh/authorized_keys
+
 ### Key login
 
 ```bash
