@@ -64,7 +64,7 @@ We can swap to other solution if CodeShip has issue a long the way we use it.
 
 ## Explained workflows
 
-Deploy script in action can be found here.
+Deploy script in action can be found [here](https://raw.githubusercontent.com/atdrupal/make/master/scripts/Deploy.sh).
 
 1. Make the source code
 - Sync made source code to destination
