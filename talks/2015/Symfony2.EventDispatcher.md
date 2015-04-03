@@ -1,4 +1,4 @@
-Observer design pattern, Symfony2 Event dispatcher component
+Event dispatcher component & Observer design pattern
 ====
 
 ## 1. Why?
