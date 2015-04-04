@@ -29,6 +29,9 @@ Phải kiêng ăn của cúng thần tượng, máu, thú vật chết ngộp, v
 
 ## Bookmarks
 
+1. Easter
+  - [Huyền Thoại về Easter](http://www.timhieutinlanh.net/?p=289)
+  - [Easter Từng Có Nghĩa Gì Đối với Tôi](http://www.vi.grace-jay.net/?p=60)
 1. [List of Christians on Facebook](https://www.facebook.com/lists/10151638152547122)
   - Notes: Not all are real Christian.
 - [Đài Nguồn Sống](http://v3k.net/vi/dai-nguon-song)
