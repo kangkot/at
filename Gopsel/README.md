@@ -35,3 +35,5 @@ Phải kiêng ăn của cúng thần tượng, máu, thú vật chết ngộp, v
 1. [List of Christians on Facebook](https://www.facebook.com/lists/10151638152547122)
   - Notes: Not all are real Christian.
 - [Đài Nguồn Sống](http://v3k.net/vi/dai-nguon-song)
+- [Thánh Ca](http://thanhca.timhieutinlanh.net/)
+  - [Thánh Ca Truyền Thống](http://thanhca.timhieutinlanh.net/?p=1)
