@@ -1,7 +1,3 @@
-- [List of Christians on Facebook](https://www.facebook.com/lists/10151638152547122)
-  - Notes: Not all are real Christian.
-- [Đài Nguồn Sống](http://v3k.net/vi/dai-nguon-song)
-
 ## Mười Điều Răn của Đức Chúa Trời (Xuất Ê-díp-tô Ký 20:1-17)
 
 1. Bấy giờ, Thiên Chúa phán mọi lời này:
@@ -29,3 +25,10 @@ Các ngươi hãy yêu lẫn nhau. Như Ta đã yêu các ngươi thế nào, th
 ## Điều Răn của Đức Thánh Linh (Công Vụ Các Sứ Đồ 15:29)
 
 Phải kiêng ăn của cúng thần tượng, máu, thú vật chết ngộp, và chớ tà dâm.
+
+
+## Bookmarks
+
+1. [List of Christians on Facebook](https://www.facebook.com/lists/10151638152547122)
+  - Notes: Not all are real Christian.
+- [Đài Nguồn Sống](http://v3k.net/vi/dai-nguon-song)
