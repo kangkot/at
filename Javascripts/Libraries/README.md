@@ -6,6 +6,7 @@
 6. [select2](http://ivaynberg.github.io/select2/)
 7. lunrjs.com
 8. [Growl](https://github.com/aheinze/Growl) - a simple notification system inspired by growl for the mac os.
+9. [VideoJS](http://www.videojs.com) — The open source HTML5 video player
 
 ### Database
 
