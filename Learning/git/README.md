@@ -5,6 +5,7 @@
 1. [Splitting a subfolder out into a new repository](http://git.io/1hPf_g)
 1. [Remove sensitive data](http://git.io/PIfdnw)
 1. [GitMinutes](http://episodes.gitminutes.com)
+1. https://speakerdeck.com/singingwolfboy/advanced-git
 
 ## Extra commands
 
