@@ -1,10 +1,10 @@
 <?php
 
 if (!empty($_GET['profile'])) {
-  xhprof_enable(XHPROF_FLAGS_CPU + XHPROF_FLAGS_MEMORY);
   $XHPROF_ROOT = "/data/disk/o1/static/xhprof";
   require_once $XHPROF_ROOT . "/xhprof_lib/utils/xhprof_lib.php";
   require_once $XHPROF_ROOT . "/xhprof_lib/utils/xhprof_runs.php";
+  xhprof_enable(XHPROF_FLAGS_NO_BUILTINS | XHPROF_FLAGS_CPU | XHPROF_FLAGS_MEMORY);
 }
 
 define('DRUPAL_ROOT', getcwd());
