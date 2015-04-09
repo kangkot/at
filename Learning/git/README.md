@@ -12,6 +12,7 @@
 1. [git-up](https://github.com/aanand/git-up)
 - https://github.com/mhagger/git-imerge
 - https://github.com/arc90/git-sweep
+- [lfs](https://git-lfs.github.com) — Large file storage
 
 ## Commands
 
