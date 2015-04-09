@@ -12,3 +12,12 @@
 
 1. http://www.sitepoint.com/javascript/
 - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) by CodeSchool.com
+
+## ReactJS
+
+- https://facebook.github.io/react/
+- https://facebook.github.io/react/docs/getting-started.html
+- https://code.facebook.com/projects/450791118411445/react-native/
+- Videos
+  - [React.js Conf 2015 Keynote 2 - A Deep Dive into React Native](http://j.mp/1IvhdsR)
+  - [F8 2015 - React Native and Relay - Bringing Modern Web Techniques to Mobile](http://j.mp/1FpxcTg)
