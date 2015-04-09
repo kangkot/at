@@ -18,6 +18,8 @@
 - https://facebook.github.io/react/
 - https://facebook.github.io/react/docs/getting-started.html
 - https://code.facebook.com/projects/450791118411445/react-native/
+- Articles
+  - [React Native: Bringing modern web techniques to mobile](http://j.mp/1NVMDH6)
 - Videos
   - [React.js Conf 2015 Keynote 2 - A Deep Dive into React Native](http://j.mp/1IvhdsR)
   - [F8 2015 - React Native and Relay - Bringing Modern Web Techniques to Mobile](http://j.mp/1FpxcTg)
